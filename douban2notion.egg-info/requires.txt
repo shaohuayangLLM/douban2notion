@@ -1,6 +1,8 @@
 requests
+pendulum
+retrying
 notion-client
 github-heatmap
-retrying
-pendulum
 python-dotenv
+beautifulsoup4
+lxml
